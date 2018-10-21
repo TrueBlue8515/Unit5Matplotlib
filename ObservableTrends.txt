@@ -1,0 +1,6 @@
+1).  The number of rides and the number of drivers is greater in urban areas than in both suburban and rural areas.
+
+2).  If a driver was looking to enter into the Pyber market, they may consider the suburban market first as there is a larger percentage of fares and rides than there are drives.
+	
+3.)  The urban market has the largest percentage of fares, rides and drivers of all three areas.
+
